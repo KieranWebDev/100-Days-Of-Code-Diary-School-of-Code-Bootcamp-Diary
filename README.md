@@ -1,7 +1,7 @@
 # 100-Days-Of-Code-Diary-School-of-Code-Bootcamp-Diary
 A diary documenting my 100 Days of Code learning Journey and my journey on the School of Code Bootcamp
 
-### Day 0
+### **Day 0**
 
 Prior to beginning my 100 Days of Code journey I had been an ESL teacher for 8 years. Last year I began to teach myself HTML and CSS whilst working full time. I used Codecademy as my main learning resource. 
 
@@ -9,7 +9,7 @@ In preperation for the School of Code Bootcamp I left my job and spent the 7 wee
 
 As part of the SOC pre-course task I was introduced to git and github. I also completed another course on Udacity.com where I learned the fundamentals of the command line and git.
 
-### Day 1
+### **Day 1**
 
 My first day at School of Code. Lots of nervouse excitment but met some wonderful people.
 
@@ -22,6 +22,6 @@ My first day at School of Code. Lots of nervouse excitment but met some wonderfu
 - Importance of using online resources to our advantage e.g. google, stack overflow etc. 
 - Introduction to pair progamming. We will do every activity/challenge in pairs. Taking turns to be the driver and navigator. Helping and learning from each other.
 
-### Day 2 
+### **Day 2** 
 
 #### A brief map of the day
