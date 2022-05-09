@@ -78,6 +78,27 @@ My coding partner and I were quite happy with the outcome of the task, given the
 
 -Introduction to Code Wars. Watched some videos about breaking code wars tasks down and completed a few challenges/ katas. Reached 7 Kyu level.
 
+### Day 8 
+
+Every week we are paired with a new partner, so we spend a little bit of time breaking the ice and getting to know each others working/communication styles before cracking on with the day. 
+
+A very intense day, covered a LOT. Didn't have time to finish everything.
+- had a nice talk with some ex-bootcampers this morning. They weree sharing their experience, tips and advice with us. 
+- Introduction to the DOM 
+- practised selecting anf manipulating elements
+- lots of practice with event Listeners and Event Handlers. 
+- 
+
+### Day 9 
+
+- Before class I reviewed and finished tasks from yesterday and feel more confident with the material.
+- Introduction to asynchronous functions, promises and Fetch requests.
+- we used Fetch to retrieve data from a kanye west quote api and then displayed the quotes on a webpage. We were then able to implement an event which added the quotes to a list on the browser. ---edit this. clunky 
+
+### Day 10
+
+
+
 ### week 2 reflections
 
 -trial by fire
@@ -87,3 +108,4 @@ used to being constantly confused. and brief moments of clarity. part of the pro
 - first time applying some of the concepts I learned in a more free-form environment. I.e use all the tools we gave you to solve this problem , rather than use a loop for this problem, now use a if statement for this one etc. 
 - felt like making great progress, things were clicking, competing tasks. but then two laters strugling with seemingly basic tasks on the homework.
 - approached homework with wrong attitude. trying to rush through, making silly mistakes. not breaking problem down. 
+- benefits of slack community - share the struggle
