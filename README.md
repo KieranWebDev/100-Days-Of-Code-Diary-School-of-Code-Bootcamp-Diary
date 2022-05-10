@@ -15,7 +15,7 @@ My first day at School of Code. Lots of nervouse excitment but met some wonderfu
 
 #### A brief map of the day
 
-- Introduction to computational thinking, and the importanceof breaking problems down into smaller chunks. 
+- Introduction to computational thinking, and the importance of breaking problems down into smaller chunks. 
 - Chris (our Teacher) talked about Imposter Syndrome; how we need to learn to just deal with it and how it will never really leave us.
 - High level overview of agile vs waterfall development and also MVP's (Minimum Viable Products)
 - Chris also talked about how the aim of the bootcamp was to mold us into a sort of MVP, so that employers could add to our training and we could develop ourselves further in areas we are interested in.
@@ -97,6 +97,26 @@ A very intense day, covered a LOT. Didn't have time to finish everything.
 
 ### Day 10
 
+- More practice and workshops using Asynch functions and Fetch; making GET and POST requests.
+- Weekly mindset talk , this time focusing on different personality types, the strengths and weaknesses of them.
+- Spent some time refactoring my hackathon challenge from the previous week.
+
+### Day 11 - Hackathon Friday
+
+- We pair programmed a simple but effective dad joke site using async functions, fetch requests, and event handlers/listeners.
+- We spent 30 minutes breaking the problem down and making a plan. We decided to make a high level overview plan which broke the problem up into multiple parts. Once we finished one part we would then zoom in on the next part and make a more detailed plan before completing it. We felt this way of planning/working was more fluid and veratile. It allowed us to respond to possible changes and also was more time effective. 
+- We managed to reach our key goals before lunch and were able to focus on our strecth goals, which was to add CSS styling to the site.
+- We then gave a two minute presentation of our project to some of our peers at the end of the day.
+- When I have some freetime (hopefully over the weekend) I plan.
+
+### Day 12 
+
+Completed the SoC recap activites, which included;
+- Manipulating arrays, searching filtering for specific info
+- Event handlers/listeners review
+- Using setInterval and clearInterval
+- DOM manipulation
+- Adding input vals to list
 
 
 ### week 2 reflections
@@ -109,3 +129,32 @@ used to being constantly confused. and brief moments of clarity. part of the pro
 - felt like making great progress, things were clicking, competing tasks. but then two laters strugling with seemingly basic tasks on the homework.
 - approached homework with wrong attitude. trying to rush through, making silly mistakes. not breaking problem down. 
 - benefits of slack community - share the struggle
+- learning to deal with errors. error log is my friend, not a cause for panic.
+
+#### Notes on weekend  homework tasks 
+
+Honestly this took longer than I expected. Once I completed the tasks I realized that I approached the tasks with the wrong mindset which hindered me greatly. I was just focused on trying to get them done as quickly as possible so that I could attend to some other commitments. I didn't break the problem down, didnt check the code properly as I was writing it and therefore made some silly errors that cost me a lot of time to find and correct. When I got stuck I used the wrong approach of just plowing forward instead of taking a step back and/or a short break, resulting in me just getting stuck further down the rabbit hole.
+
+
+Thus, I realised that I needed to approach these problems the same way I would any other SoC challenge given during the weekdays: Break the problem down, make a plan and approach it methodically. Use the console.log and read error messages carefully. Make use of resources such w3schools and stackoverflow when neccessary.
+
+### Day 13
+
+- We looked at the importance of UI/UX design. The difference between the two and the roles/importance of each.
+- We then learned about Agile Development and the 12 principles of Agile software Development.
+- Waterfall Development vs Agile Development. Advantages and disadvantages of each.
+- Played the Can't Unsee game which was a good intro into the power of good design. 
+- Some self reflection activities at the end of the day. 
+
+
+
+
+
+
+
+
+
+
+
+
+
