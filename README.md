@@ -146,7 +146,22 @@ Thus, I realised that I needed to approach these problems the same way I would a
 - Played the Can't Unsee game which was a good intro into the power of good design. 
 - Some self reflection activities at the end of the day. 
 
+### Day 14
 
+- We took a deep dive into the 5 stages of Design Thinking
+    - Emphathise
+    - Define
+    - Ideate
+    - Prototype
+    - Test
+- We discussed how this can often be an iterative process and we also practiced working through the stages in our own imaginary projects. 
+- We also had time for a CSS workshop where we practised using CSS variables and we we able to implement a dark-mode feature on a simple website. 
+
+
+reflections on the week
+
+- began a more useful notetaking system after advice from a fellow bootcamper
+- can see the benefits of cognitive diversity after our design thinking activites. especially during the ideation phase - ie bouncing ideas off each other. 
 
 
 
