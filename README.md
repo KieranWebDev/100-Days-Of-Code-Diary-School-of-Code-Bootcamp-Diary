@@ -56,21 +56,23 @@ Todays challenge was to make a rock scissor paper game. We managed to complete t
 
 My coding partner and I were quite happy with the outcome of the task, given the limited time and knowledge we have. I'm looking forward to refactoring the code and adding DOM interactivity in my free time.
 
-### reflections on the first week of School of Code
-
-- baby steps
-- clelebrate the small wins
-- learn from the failures 
-- benefits and challenges of pair programming
-- imposter syndrome. dont compare yourself to others
-- importance of taking breaks - pushing through with a frazlled brain not the best option. 
-- compare yourself to yourself yesterday. 
-
-
 ### Day 6 and 7 (Sunday and Bank Holiday Monday)
 
 - Spent some time working through some classes on Scrimba's 'Learn JS for free' course. Reviewing, practising and cementing some concepts we learned during the week. 
 - Introduction to Code Wars. Watched some videos about breaking code wars tasks down and completed a few challenges/ katas. Reached 7 Kyu level.
+
+### Reflections after week 1 of the School of Code.
+
+Things I've been reflecting on at end of the week:
+
+- Taking a few babysteps everyday will soon add up. Consistency is the key.
+- Once I got used to pair-programming I can really see the benefits if it. We were catching each others errors as we went and often we solved problems by just talking it through with each other. 
+- The importance of celebrating the little wins and learning from failures. It was especially nice to be be able to share the wins with my coding partner and also to support each other when failing. 
+- 
+- 'Compare yourself to your past self and not to others'. This is also something our teachers have reitorated several times.
+- But also, in relation to the previouse point, the reality that Imposter Syndrome is something that will come and go, and how it's basically something I will just have to learn to live with.
+- The importance of taking breaks. Applying the mental approach I use in physical excercise such as, 'push forward' and 'dig deeper', seems to actually be a hindrance when trying to solve coding problems. I realised that taking a short break or coming back to the problem later can actually be far more effective.   
+
 
 ### Day 8 
 
@@ -86,7 +88,7 @@ A very intense day, covered a LOT. Didn't have time to finish everything.
 
 - Before class I reviewed and finished the tasks from yesterday and now feel more confident with the material.
 - Introduction to asynchronous functions, promises and Fetch requests.
-- We used Fetch to retrieve data from a Kanye West quote api and then displayed the quotes on a webpage. We were then able to implement an event which added the quotes to a list on the browser. ---edit this. clunky 
+- We used Fetch to retrieve data from a Kanye West quote api and then displayed the quotes on a webpage. We then created a button that stored the quotes into a list on the webpage and also excluded any repeated quotes from the list.
 
 ### Day 10
 
@@ -100,36 +102,36 @@ A very intense day, covered a LOT. Didn't have time to finish everything.
 - We spent 30 minutes breaking the problem down and making a plan. We decided to make a high level overview plan which broke the problem up into multiple parts. Once we finished one part we would then zoom in on the next part and make a more detailed plan before completing it. We felt this way of planning/working was more fluid and veratile. It allowed us to respond to possible changes and also was more time effective. 
 - We managed to reach our key goals before lunch and were able to focus on our strecth goals, which was to add CSS styling to the site.
 - We then gave a two minute presentation of our project to some of our peers at the end of the day.
-- When I have some freetime (hopefully over the weekend) I plan.
+- I enjoyed using the tools we had learned in a more free-form environment. I.e. Make a plan and solve this problem. 
+- When I have some freetime (hopefully over the weekend) I plan to refactor the code, add and input function that lets the user write and add their own joke to either list and clean up the CSS a little bit.
+
 
 ### Day 12 
 
 Completed the SoC recap activites, which included;
-- Manipulating arrays, searching filtering for specific info
-- Event handlers/listeners review
-- Using setInterval and clearInterval
-- DOM manipulation
-- Adding input vals to list
+- Manipulating arrays, searching filtering for specific info.
+- Event handlers/listeners review.
+- Using setInterval and clearInterval.
+- DOM manipulation.
+- Adding input vals to list.
 
 
 ### week 2 reflections
 
--trial by fire
-used to being constantly confused. and brief moments of clarity. part of the process.
-- pick yourself up, dust off and keep back on the horse. maybe compare to running fall. get back on the horse quickly or you will develop the fear. 
-- getting used to being outside of comfot zone.
-- first time applying some of the concepts I learned in a more free-form environment. I.e use all the tools we gave you to solve this problem , rather than use a loop for this problem, now use a if statement for this one etc. 
-- felt like making great progress, things were clicking, competing tasks. but then two laters strugling with seemingly basic tasks on the homework.
-- approached homework with wrong attitude. trying to rush through, making silly mistakes. not breaking problem down. 
-- benefits of slack community - share the struggle
-- learning to deal with errors. error log is my friend, not a cause for panic.
+Things I've been reflecting on at end of the week:
+
+- This week felt like a real trial by fire, especially as we had lost a day of study to make up due to the Bank Holiday
+- I'm getting used to being out of my comfort zone and somewhat comfortable with feeling confused a lot of the time. These moments of confusion are usually followed by brief, shining moments of clarity, before we move on to the next topic and more confusion begins to surround me. But hey, you can't really enjoy the sunshine without experiencing the heavy rains. --storms?
+- Again with the cliches, but the old analogy of the boy falling of his horse, brushing himself off and climbing right back on came to my mind a lot this week. Every day my brain was like fried chicken by end of it, but I would decrompress, workout, relax then return to the materials before class in the mornings to find that my understanding deepening and things becoming clearer. Thus, I am beginning to really trust in the learning process described by my teachers last week.
+- I'm beggining to see the benefits of the SoC slack channel. There is a really supportive and kind community there and I wish to get more involved in it.
+- I'm also getting better at debugging. I've come to realise that the error log is often a source of helpful advice and not a cause for panic.
+
 
 #### Notes on weekend  homework tasks 
 
 Honestly this took longer than I expected. Once I completed the tasks I realized that I approached the tasks with the wrong mindset which hindered me greatly. I was just focused on trying to get them done as quickly as possible so that I could attend to some other commitments. I didn't break the problem down, didnt check the code properly as I was writing it and therefore made some silly errors that cost me a lot of time to find and correct. When I got stuck I used the wrong approach of just plowing forward instead of taking a step back and/or a short break, resulting in me just getting stuck further down the rabbit hole.
 
-
-Thus, I realised that I needed to approach these problems the same way I would any other SoC challenge given during the weekdays: Break the problem down, make a plan and approach it methodically. Use the console.log and read error messages carefully. Make use of resources such w3schools and stackoverflow when neccessary.
+Thus, I realised that I needed to approach these problems the same way I would any other SoC challenge given during the weekdays: Break the problem down, make a plan and approach it methodically. Use the console.log and read error messages carefully. Make use of resources such as mdn, w3schools and stackoverflow when neccessary.
 
 ### Day 13
 
@@ -141,20 +143,31 @@ Thus, I realised that I needed to approach these problems the same way I would a
 
 ### Day 14
 
-- We took a deep dive into the 5 stages of Design Thinking
+- We took a deep dive into the 5 stages of Design Thinking:
     - Emphathise
     - Define
     - Ideate
     - Prototype
     - Test
 - We discussed how this can often be an iterative process and we also practiced working through the stages in our own imaginary projects. 
-- We also had time for a CSS workshop where we practised using CSS variables and we we able to implement a dark-mode feature on a simple website. 
+- We also had time for a CSS workshop where we practised using CSS variables and we were able to implement a dark-mode feature on a simple website. 
+- Solved a couple of Code Wars challenges in our pairs
+
+### Day 15 
+
+- Deeper dive into UI, and the elements and principles of design.
+- Color theory and accessibility.
+- We also looked at the LightHouse feature in Devtools.
+- Introduction to wire-framing and practised making a mock-up wireframe using miro and figma.
+- workshop on organising and maintaining CSS code. We also covered specificity.
 
 
 reflections on the week
 
-- began a more useful notetaking system after advice from a fellow bootcamper
+- began a more useful notetaking system after advice from a fellow bootcamper. Also discovered Trello
 - can see the benefits of cognitive diversity after our design thinking activites. especially during the ideation phase - ie bouncing ideas off each other. 
+- interesting doing wireframing on a compututer for the first time. 
+- also intro was figma was useful. looked at tutorials after class and feel more confident with it. 
 
 
 
