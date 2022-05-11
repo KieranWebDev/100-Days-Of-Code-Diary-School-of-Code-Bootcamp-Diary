@@ -5,13 +5,13 @@ A diary documenting my 100 Days of Code learning Journey and my journey on the S
 
 Prior to beginning my 100 Days of Code journey I had been an ESL teacher for 8 years. Last year I began to teach myself HTML and CSS whilst working full time. I used Codecademy as my main learning resource. 
 
-In preperation for the School of Code Bootcamp I left my job and spent the 7 weeks beforehand trying to prepare myself as much as possible. I completed the JS Fundamental sections of Jonas Schmedtmann's Complete JavaScript course on Udemy, as well as the Fundamentals section of his NodeJS course. I also had a brief introduction into using PostgresSQL. After that I managed to work my way through most of the Learn React for Free course on Scrimba and also had some time to refresh my Flexbox and Grid knowledge. I also reviewed my CSS and HTML knowledge as well as UI/UX design fundamentals. 
+In preparation for the School of Code Bootcamp I left my job and spent the 7 weeks beforehand trying to prepare myself as much as possible. I completed the JS Fundamental sections of Jonas Schmedtmann's Complete JavaScript course on Udemy, as well as the Fundamentals section of his NodeJS course. I also had a brief introduction into using PostgresSQL. After that I managed to work my way through most of the Learn React for Free course on Scrimba and also had some time to refresh my Flexbox and Grid knowledge. I also reviewed my CSS and HTML knowledge as well as UI/UX design fundamentals. 
 
 As part of the SOC pre-course task I was introduced to git and github. I also completed another course on Udacity where I learned the fundamentals of the command line and git.
 
 ### **Day 1**
 
-My first day at School of Code. Lots of nervous excitment but met some wonderful people.
+My first day at School of Code. Lots of nervous excitement but met some wonderful people.
 
 #### What we covered
 
@@ -20,7 +20,7 @@ My first day at School of Code. Lots of nervous excitment but met some wonderful
 - High level overview of agile vs waterfall development and also MVP's (Minimum Viable Products).
 - Chris also talked about how the aim of the bootcamp was to mold us into a sort of MVP, so that employers could add to our training and we could develop ourselves further in areas we are interested in.
 - Importance of using online resources to our advantage e.g. Google, Stack Overflow etc. 
-- Introduction to pair progamming. We will do every activity/challenge in pairs. Taking turns to be the driver and navigator. Helping and learning from each other.
+- Introduction to pair programming. We will do every activity/challenge in pairs. Taking turns to be the driver and navigator. Helping and learning from each other.
 - CSS selectors game in pairs. My first experience with pair programming.
 
 ### **Day 2** 
@@ -43,34 +43,34 @@ My first day at School of Code. Lots of nervous excitment but met some wonderful
 ### Day 4
 
 In the morning we had a workshop about the importance of mindset and The Heroes Journey. We also discussed productive ways of giving and recieving feedback.
-- Afterwords we immediately dove right back into JavaScript, covering;
+- Afterwards we immediately dove right back into JavaScript, covering;
 - Objects
 - Arrays 
 - More practice with for and while loops. 
 
 ### Day 5 - Hackathon Friday
 
-So every Friday is Hackathon friday, where we spend the day completing a project in our pairs. Its a great opportunity to practise and cement the concepts we learned during the week. We then give a 2 minute presentation of our project to other groups at the end of the day. 
+So every Friday is Hackathon friday, where we spend the day completing a project in our pairs. Its a great opportunity to practice and cement the concepts we learned during the week. We then give a 2 minute presentation of our project to other groups at the end of the day. 
 
-Todays challenge was to make a rock scissor paper game. We managed to complete the challenge using functions, arrays, if statements and while loops. The game generated a random move for the computer and also kept track of total games, wins, loses and draws. 
+Today's challenge was to make a rock scissor paper game. We managed to complete the challenge using functions, arrays, if statements and while loops. The game generated a random move for the computer and also kept track of total games, wins, loses and draws. 
 
 My coding partner and I were quite happy with the outcome of the task, given the limited time and knowledge we have. I'm looking forward to refactoring the code and adding DOM interactivity in my free time.
 
 ### Day 6 and 7 (Sunday and Bank Holiday Monday)
 
-- Spent some time working through some classes on Scrimba's 'Learn JS for free' course. Reviewing, practising and cementing some concepts we learned during the week. 
+- Spent some time working through some classes on Scrimba's 'Learn JS for free' course. Reviewing, practicing and cementing some concepts we learned during the week. 
 - Introduction to Code Wars. Watched some videos about breaking code wars tasks down and completed a few challenges/ katas. Reached 7 Kyu level.
 
 ### Reflections after week 1 of the School of Code.
 
 Things I've been reflecting on at the end of the week:
 
-- Taking a few babysteps everyday will soon add up. Consistency is the key.
-- Once I got used to pair-programming I can really see the benefits if it. We were catching each others errors as we went and often we solved problems by just talking it through with each other. 
+- Taking a few baby steps everyday will soon add up. Consistency is the key.
+- Once I got used to pair-programming I can really see the benefits if it. We were catching each other's errors as we went and often we solved problems by just talking it through with each other. 
 - The importance of celebrating the little wins and learning from failures. It was especially nice to be be able to share the wins with my coding partner and also to support each other when failing. 
-- 'Compare yourself to your past self and not to others'. This is also something our teachers have reitorated several times.
-- But also, in relation to the previouse point, the reality that Imposter Syndrome is something that will come and go, and how it's basically something I will just have to learn to live with.
-- The importance of taking breaks. Applying the mental approach I use in physical excercise such as, 'push forward' and 'dig deeper', seems to actually be a hindrance when trying to solve coding problems. I realised that taking a short break or coming back to the problem later can actually be far more effective.   
+- 'Compare yourself to your past self and not to others'. This is also something our teachers have reiterated several times.
+- But also, in relation to the previous point, the reality that Imposter Syndrome is something that will come and go, and how it's basically something I will just have to learn to live with.
+- The importance of taking breaks. Applying the mental approach I use in physical excercice such as, 'push forward' and 'dig deeper', seems to actually be a hindrance when trying to solve coding problems. I realised that taking a short break or coming back to the problem later can actually be far more effective.   
 
 
 ### Day 8 
