@@ -63,7 +63,7 @@ My coding partner and I were quite happy with the outcome of the task, given the
 
 ### Reflections after week 1 of the School of Code.
 
-Things I've been reflecting on at end of the week:
+Things I've been reflecting on at the end of the week:
 
 - Taking a few babysteps everyday will soon add up. Consistency is the key.
 - Once I got used to pair-programming I can really see the benefits if it. We were catching each others errors as we went and often we solved problems by just talking it through with each other. 
@@ -118,7 +118,7 @@ Completed the SoC recap activites, which included;
 
 ### week 2 reflections
 
-Things I've been reflecting on at end of the week:
+Things I've been reflecting on at the end of the week:
 
 - This week felt like a real trial by fire, especially as we had lost a day of study to make up due to the Bank Holiday
 - I'm getting used to being out of my comfort zone and somewhat comfortable with feeling confused a lot of the time. These moments of confusion are usually followed by brief, shining moments of clarity, before we move on to the next topic and more confusion begins to surround me. But hey, you can't really enjoy the sunshine without experiencing the heavy rains. --storms?
