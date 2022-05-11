@@ -68,7 +68,6 @@ Things I've been reflecting on at the end of the week:
 - Taking a few babysteps everyday will soon add up. Consistency is the key.
 - Once I got used to pair-programming I can really see the benefits if it. We were catching each others errors as we went and often we solved problems by just talking it through with each other. 
 - The importance of celebrating the little wins and learning from failures. It was especially nice to be be able to share the wins with my coding partner and also to support each other when failing. 
-- 
 - 'Compare yourself to your past self and not to others'. This is also something our teachers have reitorated several times.
 - But also, in relation to the previouse point, the reality that Imposter Syndrome is something that will come and go, and how it's basically something I will just have to learn to live with.
 - The importance of taking breaks. Applying the mental approach I use in physical excercise such as, 'push forward' and 'dig deeper', seems to actually be a hindrance when trying to solve coding problems. I realised that taking a short break or coming back to the problem later can actually be far more effective.   
@@ -120,10 +119,10 @@ Completed the SoC recap activites, which included;
 
 Things I've been reflecting on at the end of the week:
 
-- This week felt like a real trial by fire, especially as we had lost a day of study to make up due to the Bank Holiday
-- I'm getting used to being out of my comfort zone and somewhat comfortable with feeling confused a lot of the time. These moments of confusion are usually followed by brief, shining moments of clarity, before we move on to the next topic and more confusion begins to surround me. But hey, you can't really enjoy the sunshine without experiencing the heavy rains. --storms?
-- Again with the cliches, but the old analogy of the boy falling of his horse, brushing himself off and climbing right back on came to my mind a lot this week. Every day my brain was like fried chicken by end of it, but I would decrompress, workout, relax then return to the materials before class in the mornings to find that my understanding deepening and things becoming clearer. Thus, I am beginning to really trust in the learning process described by my teachers last week.
-- I'm beggining to see the benefits of the SoC slack channel. There is a really supportive and kind community there and I wish to get more involved in it.
+- This week felt like a real trial by fire, especially as we had lost a day of study to make up for due to the Bank Holiday.
+- I'm getting used to being out of my comfort zone and somewhat comfortable with feeling confused a lot of the time. These moments of confusion are usually followed by brief, shining moments of clarity, before we move on to the next topic and more confusion begins to surround me. But hey, you can't enjoy the sunshine without experiencing the storms.
+- Again with the cliches, but the old analogy of the boy falling of his horse, brushing himself off and climbing right back on came to my mind a lot this week. Every day my brain was like fried chicken by end of it, but I would decrompress, workout, relax then return to the materials before class in the mornings to find my understanding deepening and things becoming clearer. Thus, I am beginning to really trust in the learning process described by my teachers last week.
+- I'm starting to see the benefits of the SoC slack channel. There is a really supportive and kind community there and I wish to get more involved in it.
 - I'm also getting better at debugging. I've come to realise that the error log is often a source of helpful advice and not a cause for panic.
 
 
