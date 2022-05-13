@@ -161,12 +161,21 @@ Thus, I realised that I needed to approach these problems the same way I would a
 - workshop on organising and maintaining CSS code. We also covered specificity.
 
 
+### Day 16
+
+- Workshop on perspectives and ideas, listening to and communicating ideas effectively.
+- We talked about importance of not get getting too attached to our ideas. 
+- CSS flexbox, using vh and vw for sizing. Also looked at how to select elements in the most efficient and sustainable ways.
+- In the afternoon we worked in groups of 4 to complete a UX challenge. The challenge was to create some wireframes for a competitor to Google Maps. We managed to complete some medium fidelity wireframes and then presented them to our peers. 
+
 reflections on the week
 
 - began a more useful notetaking system after advice from a fellow bootcamper. Also discovered Trello
 - can see the benefits of cognitive diversity after our design thinking activites. especially during the ideation phase - ie bouncing ideas off each other. 
 - interesting doing wireframing on a compututer for the first time. 
 - also intro was figma was useful. looked at tutorials after class and feel more confident with it. 
+- enjoyeed the UI/UX concepts. efficient communication is key though, otherwise things can get uncomortable quickly. 
+- prefer having a more fixed ruleset when doing tasks. 
 
 
 
