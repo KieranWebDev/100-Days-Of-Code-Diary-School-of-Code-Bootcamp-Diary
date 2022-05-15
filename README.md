@@ -168,6 +168,20 @@ Thus, I realised that I needed to approach these problems the same way I would a
 - CSS flexbox, using vh and vw for sizing. Also looked at how to select elements in the most efficient and sustainable ways.
 - In the afternoon we worked in groups of 4 to complete a UX challenge. The challenge was to create some wireframes for a competitor to Google Maps. We managed to complete some medium fidelity wireframes and then presented them to our peers. 
 
+###Day 17
+
+- Followed the Design Thinking Process and UI/UX planning principles we learned this week to design a personal portfolio website.
+- I created user personas and stories, then made a first draft and final version of my low-fidelity  wireframe on Miro.
+- I actually really enjoyed the process and was surprised by this. I spent a good chunk of my Saturday night creating the wireframes whilst listening to music and have no regrets. It was fun to put myself in the user’s shoes and try to design something that would meet their needs and expectations.
+- I also cleaned up my Linkedin profile and began to upload my daily progress on LinkedIn instead of Twitter.
+
+###Day 18
+
+-This morning I created the high fidelity wire-frame for my portfolio website on Figma. I’m pretty happy with it, all in all. There are a few things that need tweaking, but I’ll let it sit in my mind for a while and have another look at it in a couple of days. 
+- I’ll begin planning and building it in HTML and CSS in the morning. 
+
+
+
 reflections on the week
 
 - began a more useful notetaking system after advice from a fellow bootcamper. Also discovered Trello
@@ -176,6 +190,10 @@ reflections on the week
 - also intro was figma was useful. looked at tutorials after class and feel more confident with it. 
 - enjoyeed the UI/UX concepts. efficient communication is key though, otherwise things can get uncomortable quickly. 
 - prefer having a more fixed ruleset when doing tasks. 
+- actually really enjoyed making the portfolio wireframes. ending up spending most of my weekend on it
+- maybe look more into UI/UX? see how rest of course goes. 
+- was put of by poor communication in group task on Thursday. 
+- Trello is a game changer. to do lists and storing resources on different topics 
 
 
 
