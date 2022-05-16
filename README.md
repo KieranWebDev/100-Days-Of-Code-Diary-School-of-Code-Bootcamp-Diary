@@ -31,7 +31,7 @@ My first day at School of Code. Lots of nervous excitement but met some wonderfu
 - Some more practice with CSS. We made an koala bear cartoon image. 
 - Refresher on semantic HTML.
 
-### Day 3
+### **Day 3**
 
 -The first day of Javascript. Covered so much in one day! Feel glad I covered the basics of JS in my personal course prep, or it could have been very overwhelming. Today we covered:
 - Data types and variables 
@@ -40,7 +40,7 @@ My first day at School of Code. Lots of nervous excitement but met some wonderfu
 - Functions
 - We then made a basic password checker algorithm with our pair programming partners.
 
-### Day 4
+### **Day 4**
 
 In the morning we had a workshop about the importance of mindset and The Heroes Journey. We also discussed productive ways of giving and recieving feedback.
 - Afterwards we immediately dove right back into JavaScript, covering;
@@ -48,7 +48,7 @@ In the morning we had a workshop about the importance of mindset and The Heroes 
 - Arrays 
 - More practice with for and while loops. 
 
-### Day 5 - Hackathon Friday
+### **Day 5 - Hackathon Friday**
 
 So every Friday is Hackathon friday, where we spend the day completing a project in our pairs. Its a great opportunity to practice and cement the concepts we learned during the week. We then give a 2 minute presentation of our project to other groups at the end of the day. 
 
@@ -56,12 +56,12 @@ Today's challenge was to make a rock scissor paper game. We managed to complete 
 
 My coding partner and I were quite happy with the outcome of the task, given the limited time and knowledge we have. I'm looking forward to refactoring the code and adding DOM interactivity in my free time.
 
-### Day 6 and 7 (Sunday and Bank Holiday Monday)
+### **Day 6 and 7 (Sunday and Bank Holiday Monday)**
 
 - Spent some time working through some classes on Scrimba's 'Learn JS for free' course. Reviewing, practicing and cementing some concepts we learned during the week. 
 - Introduction to Code Wars. Watched some videos about breaking code wars tasks down and completed a few challenges/ katas. Reached 7 Kyu level.
 
-### Reflections after week 1 of the School of Code.
+### **Reflections after week 1 of the School of Code.**
 
 Things I've been reflecting on at the end of the week:
 
@@ -73,7 +73,7 @@ Things I've been reflecting on at the end of the week:
 - The importance of taking breaks. Applying the mental approach I use in physical excercice such as, 'push forward' and 'dig deeper', seems to actually be a hindrance when trying to solve coding problems. I realised that taking a short break or coming back to the problem later can actually be far more effective.   
 
 
-### Day 8 
+### **Day 8**
 
 Every week we are paired with a new partner, so we spend a little bit of time breaking the ice and getting to know each others working/communication styles before cracking on with the day. 
 
@@ -83,19 +83,19 @@ A very intense day, covered a LOT. Didn't have time to finish everything.
 - Practised selecting and manipulating elements.
 - Lots of practice with event Listeners and Event Handlers. 
 
-### Day 9 
+### **Day 9** 
 
 - Before class I reviewed and finished the tasks from yesterday and now feel more confident with the material.
 - Introduction to asynchronous functions, promises and Fetch requests.
 - We used Fetch to retrieve data from a Kanye West quote api and then displayed the quotes on a webpage. We then created a button that stored the quotes into a list on the webpage and also excluded any repeated quotes from the list.
 
-### Day 10
+### **Day 10**
 
 - More practice and workshops using Asynch functions and Fetch; making GET and POST requests.
 - Weekly mindset talk , this time focusing on different personality types, the strengths and weaknesses of them.
 - Spent some time refactoring my hackathon challenge from the previous week.
 
-### Day 11 - Hackathon Friday
+### **Day 11 - Hackathon Friday**
 
 - We pair programmed a simple but effective dad joke site using async functions, fetch requests, and event handlers/listeners.
 - We spent 30 minutes breaking the problem down and making a plan. We decided to make a high level overview plan which broke the problem up into multiple parts. Once we finished one part we would then zoom in on the next part and make a more detailed plan before completing it. We felt this way of planning/working was more fluid and veratile. It allowed us to respond to possible changes and also was more time effective. 
@@ -105,7 +105,7 @@ A very intense day, covered a LOT. Didn't have time to finish everything.
 - When I have some freetime (hopefully over the weekend) I plan to refactor the code, add and input function that lets the user write and add their own joke to either list and clean up the CSS a little bit.
 
 
-### Day 12 
+### **Day 12** 
 
 Completed the SoC recap activites, which included;
 - Manipulating arrays, searching filtering for specific info.
@@ -115,7 +115,7 @@ Completed the SoC recap activites, which included;
 - Adding input vals to list.
 
 
-### week 2 reflections
+### **Week 2 reflections**
 
 Things I've been reflecting on at the end of the week:
 
@@ -126,13 +126,13 @@ Things I've been reflecting on at the end of the week:
 - I'm also getting better at debugging. I've come to realise that the error log is often a source of helpful advice and not a cause for panic.
 
 
-#### Notes on weekend  homework tasks 
+#### **Notes on weekend  homework tasks** 
 
 Honestly this took longer than I expected. Once I completed the tasks I realized that I approached the tasks with the wrong mindset which hindered me greatly. I was just focused on trying to get them done as quickly as possible so that I could attend to some other commitments. I didn't break the problem down, didnt check the code properly as I was writing it and therefore made some silly errors that cost me a lot of time to find and correct. When I got stuck I used the wrong approach of just plowing forward instead of taking a step back and/or a short break, resulting in me just getting stuck further down the rabbit hole.
 
 Thus, I realised that I needed to approach these problems the same way I would any other SoC challenge given during the weekdays: Break the problem down, make a plan and approach it methodically. Use the console.log and read error messages carefully. Make use of resources such as mdn, w3schools and stackoverflow when neccessary.
 
-### Day 13
+### **Day 13**
 
 - We looked at the importance of UI/UX design. The difference between the two and the roles/importance of each.
 - We then learned about Agile Development and the 12 principles of Agile software Development.
@@ -140,7 +140,7 @@ Thus, I realised that I needed to approach these problems the same way I would a
 - Played the Can't Unsee game which was a good intro into the power of good design. 
 - Some self reflection activities at the end of the day. 
 
-### Day 14
+### **Day 14**
 
 - We took a deep dive into the 5 stages of Design Thinking:
     - Emphathise
@@ -152,7 +152,7 @@ Thus, I realised that I needed to approach these problems the same way I would a
 - We also had time for a CSS workshop where we practised using CSS variables and we were able to implement a dark-mode feature on a simple website. 
 - Solved a couple of Code Wars challenges in our pairs
 
-### Day 15 
+### **Day 15** 
 
 - Deeper dive into UI, and the elements and principles of design.
 - Color theory and accessibility.
@@ -161,28 +161,28 @@ Thus, I realised that I needed to approach these problems the same way I would a
 - workshop on organising and maintaining CSS code. We also covered specificity.
 
 
-### Day 16
+### **Day 16**
 
 - Workshop on perspectives and ideas, listening to and communicating ideas effectively.
 - We talked about importance of not get getting too attached to our ideas. 
 - CSS flexbox, using vh and vw for sizing. Also looked at how to select elements in the most efficient and sustainable ways.
 - In the afternoon we worked in groups of 4 to complete a UX challenge. The challenge was to create some wireframes for a competitor to Google Maps. We managed to complete some medium fidelity wireframes and then presented them to our peers. 
 
-###Day 17
+### **Day 17**
 
 - Followed the Design Thinking Process and UI/UX planning principles we learned this week to design a personal portfolio website.
 - I created user personas and stories, then made a first draft and final version of my low-fidelity  wireframe on Miro.
 - I actually really enjoyed the process and was surprised by this. I spent a good chunk of my Saturday night creating the wireframes whilst listening to music and have no regrets. It was fun to put myself in the user’s shoes and try to design something that would meet their needs and expectations.
 - I also cleaned up my Linkedin profile and began to upload my daily progress on LinkedIn instead of Twitter.
 
-###Day 18
+### **Day 18**
 
 -This morning I created the high fidelity wire-frame for my portfolio website on Figma. I’m pretty happy with it, all in all. There are a few things that need tweaking, but I’ll let it sit in my mind for a while and have another look at it in a couple of days. 
 - I’ll begin planning and building it in HTML and CSS in the morning. 
 
 
 
-### Reflections after the Week 3 of School of Code
+### **Reflections after the Week 3 of School of Code**
 
 UI/UX week was an interesting change of direction. After some initial trepidation I ended up really enjoying it. 
 
