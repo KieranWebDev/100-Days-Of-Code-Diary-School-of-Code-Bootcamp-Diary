@@ -182,18 +182,21 @@ Thus, I realised that I needed to approach these problems the same way I would a
 
 
 
-reflections on the week
+### Reflections after the Week 3 of School of Code
 
-- began a more useful notetaking system after advice from a fellow bootcamper. Also discovered Trello
-- can see the benefits of cognitive diversity after our design thinking activites. especially during the ideation phase - ie bouncing ideas off each other. 
-- interesting doing wireframing on a compututer for the first time. 
-- also intro was figma was useful. looked at tutorials after class and feel more confident with it. 
-- enjoyeed the UI/UX concepts. efficient communication is key though, otherwise things can get uncomortable quickly. 
-- prefer having a more fixed ruleset when doing tasks. 
-- actually really enjoyed making the portfolio wireframes. ending up spending most of my weekend on it
-- maybe look more into UI/UX? see how rest of course goes. 
-- was put of by poor communication in group task on Thursday. 
-- Trello is a game changer. to do lists and storing resources on different topics 
+UI/UX week was an interesting change of direction. After some initial trepidation I ended up really enjoying it. 
+
+This was my first experience making wireframes digitally rather than just sketching things on paper. Miro was easy to pick up but I found Figma hard to grasp and was initially put off by it. I watched a couple of tutorials and had a play around and began to feel much more comfortable with it. There is still a LOT for me to learn about Figma but I’m inspired by the possibilities it offers. Increased complexity comes with a steeper learning curve so I just need to spend more time with it.
+
+I really enjoyed the Hackathon challenge on Friday and was happy with what we created in a short period of time. My partner and I got along well and were able to communicate effectively which helped move the project along immensely. This changed my perspective on the whole 5 stage design process as I had a less satisfactory experience the day prior working in a team that didn’t gel/communicate as well.
+
+This also made we reflect on the workshop we had on Thursday morning about the importance of listening and not getting attached to our ideas. After Fridays Hackathon I also really saw the benefits of cognitive diversity in teams, as my coding partner and I really had fun bouncing ideas off one another and coming up with things that we would not of thought of by ourselves. 
+
+I spent the weekend planning and designing my prospective portfolio page leading to a high fidelity wireframe that I am pretty happy with, although a few tweaks still need to be made.  I enjoyed the process much more than I expected and really lost myself in it for most of the weekend. 
+
+I’ll see how the rest of the bootcamp goes but I might look more into UI/UX design as a potential career path. 
+
+As a side note, I also discovered Trello, which was a real game changer in terms of organizing my to-do-lists and resource lists 
 
 
 
