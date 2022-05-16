@@ -33,7 +33,7 @@ My first day at School of Code. Lots of nervous excitement but met some wonderfu
 
 ### **Day 3**
 
--The first day of Javascript. Covered so much in one day! Feel glad I covered the basics of JS in my personal course prep, or it could have been very overwhelming. Today we covered:
+The first day of Javascript. Covered so much in one day! Feel glad I covered the basics of JS in my personal course prep, or it could have been very overwhelming. Today we covered:
 - Data types and variables 
 - If statements
 - While loops
