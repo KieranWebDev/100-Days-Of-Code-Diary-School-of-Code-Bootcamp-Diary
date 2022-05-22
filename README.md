@@ -198,6 +198,73 @@ I’ll see how the rest of the bootcamp goes but I might look more into UI/UX de
 
 As a side note, I also discovered Trello, which was a real game changer in terms of organizing my to-do-lists and resource lists 
 
+### Day 19 ###
+
+- Introduction to Node and npm.
+- A quick overview of the Event Loop.
+- Pair programming workshop activity where we practised importing and exporting modules and importing npm packages.
+- We were also introduced to and practised using the .gitignore file.
+- I had to wrestle with Node version manager for a good portion of the afternoon workshop and so completed the tasks in the evening.
+- Also, in the morning we completed some HTML, CSS and JS review quizzes. I was pleasantly surprised by my scores :)
+
+### Day 20 ###
+
+-Review of the topics from yesterday.
+-Importing and exporting using ES6 syntax and default JS syntax. 
+-Intro to Express and created some simple servers and a very simple API.
+-There was a lot of info to take in today. This is my first experience with the back-end, -and things aren’t fully clicking yet, but I’m ok with that. I’m becoming more comfortable with being uncomfortable. 
+-Also attended an after class workshop hosted by some of the great coaches, which helped clarify a few things for me. 
+
+### Day 21 ###
+
+- Routing API’s and separation of concerns into different modules.
+- Practiced handling and routing queries. 
+- Not sure if all the above terminology is correct as I’m still learning and getting my head around the concepts. 
+- I’m feeling a bit more comfortable with the logic and syntax of Express after some more practice today.  Breaking things down really helped.
+-  Also talking things through with my coding partner helped me to gain more understanding of some concepts, especially in regards to handling queries from the client side.
+- In the afternoon we were also introduced to REST API and CRUD operations.
+
+
+
+### Day 22 ###
+
+- Great mindset workshop in the morning about our Inner Critic and building resilience.
+- We each gave a two minute presentation about something we had learned recently and had ten minutes to prepare for it. I presented a quick presentation demonstrating the layout grid system in Figma.
+- In the afternoon we were split into groups of four, given a random topic and had just over an hour to prepare a four minute presentation on it. We were asked to give a presentation on CORS which I had no prior knowledge of. To be frank I don’t think I presented very well as I was still struggling to grasp the concepts of CORS by the time we presented, but it’s all part of the learning journey.
+- We were also introduced to middleware in Express, and performed basic POST requests using postman. We will have more time to play around with this and cement our knowledge further during Friday’s Hackathon challenge :)
+
+
+### Day 23 ###
+
+Our challenge this week was to build the backend of a recipe website.
+- We set up a router and server that listened for requests from the client. The requests included:
+- GET request that listed all the recipes available.
+- GET request that displayed a particular recipe requested by the user(requested by inputting the id number of the recipe.)
+- POST request that created a new recipe.
+- PUT request that updated a recipe.
+- DELETE request that deleted a recipe.
+- We also had time to complete one of the bonus tasks which was to create models that allowed us to export/import some of the logic from the requests and store them elsewhere; leading to more reusable and cleaner code. 
+
+I would like to thank the fantastic coaches at School of Code for offering a guiding hand when we got stuck on a task. :) 
+
+### Day 24 ###
+
+- I completed the School of Code weekend recap tasks, which reviewed and cemented the things we learned during the week. Ie. Making GET,POST,PUT and DELETE requests. Importing and exporting modules etc.
+- I also reviewed our code from the Hackathon challenge to review the concepts and ensure I understood how everything works.
+- Watched ‘Keep betting on JavaScript video’ in preparation for a guest talk from Kyle Simpson on Monday
+- I updated my #100DaysofCode diary on my Github Readme repository. 
+
+
+### Reflections after week 4 of School of Code ###
+
+This week we were introduced to Node and Express. This was my first experience with the back-end and there was a lot of information and new concepts to absorb.
+There were times when I felt overwhelmed, and some negative talk crept into my mind, but I reminded myself that Rome wasn’t built in a day. I also remembered how I felt the same way during the middle of weeks 2 and 3, but ended those weeks feeling much more comfortable with the concepts after I stuck with it. 
+
+My coding partner took to the back-end like a fish to water. At first, this unnerved me a bit, to be honest. But I also realized that it was a great opportunity for me to learn from her. She was very patient and talked through the concepts with me. 
+
+This week I also learned to fully appreciate the benefits of adding comments to my code. Taking that time to comment properly really helps to gain a deeper understanding when writing and reviewing code. it also saves a lot of confusion when revisiting old code a few days after writing it. 
+
+This week I was also blown away by the kindness I found in the Tech Community. I worked on improving my LinkedIn profile, as last week I only had two connections (one of which was my girlfriend. haha). I reached out to past School of Code graduates and current students and was amazed by the number of well wishes and support I got from people I had never met before. A few people even messaged me saying that I was welcome to approach them with questions or for advice.  The kindness shown to me melted my heart, and I hope to pass on this kindness to others as I walk further down this path into the world of Tech.
 
 
 
