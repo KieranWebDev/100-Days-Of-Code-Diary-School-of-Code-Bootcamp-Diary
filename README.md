@@ -209,11 +209,11 @@ As a side note, I also discovered Trello, which was a real game changer in terms
 
 ### Day 20 ###
 
--Review of the topics from yesterday.
--Importing and exporting using ES6 syntax and default JS syntax. 
--Intro to Express and created some simple servers and a very simple API.
--There was a lot of info to take in today. This is my first experience with the back-end, -and things aren’t fully clicking yet, but I’m ok with that. I’m becoming more comfortable with being uncomfortable. 
--Also attended an after class workshop hosted by some of the great coaches, which helped clarify a few things for me. 
+- Review of the topics from yesterday.
+- Importing and exporting using ES6 syntax and default JS syntax. 
+- Intro to Express and created some simple servers and a very simple API.
+- There was a lot of info to take in today. This is my first experience with the back-end, -and things aren’t fully clicking yet, but I’m ok with that. I’m becoming more comfortable with being uncomfortable. 
+- Also attended an after class workshop hosted by some of the great coaches, which helped clarify a few things for me. 
 
 ### Day 21 ###
 
@@ -265,13 +265,5 @@ My coding partner took to the back-end like a fish to water. At first, this unne
 This week I also learned to fully appreciate the benefits of adding comments to my code. Taking that time to comment properly really helps to gain a deeper understanding when writing and reviewing code. it also saves a lot of confusion when revisiting old code a few days after writing it. 
 
 This week I was also blown away by the kindness I found in the Tech Community. I worked on improving my LinkedIn profile, as last week I only had two connections (one of which was my girlfriend. haha). I reached out to past School of Code graduates and current students and was amazed by the number of well wishes and support I got from people I had never met before. A few people even messaged me saying that I was welcome to approach them with questions or for advice.  The kindness shown to me melted my heart, and I hope to pass on this kindness to others as I walk further down this path into the world of Tech.
-
-
-
-
-
-
-
-
 
 
