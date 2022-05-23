@@ -266,4 +266,11 @@ This week I also learned to fully appreciate the benefits of adding comments to 
 
 This week I was also blown away by the kindness I found in the Tech Community. I worked on improving my LinkedIn profile, as last week I only had two connections (one of which was my girlfriend. haha). I reached out to past School of Code graduates and current students and was amazed by the number of well wishes and support I got from people I had never met before. A few people even messaged me saying that I was welcome to approach them with questions or for advice.  The kindness shown to me melted my heart, and I hope to pass on this kindness to others as I walk further down this path into the world of Tech.
 
+### Day 25 ###
+
+- Today we were introduced to databases. We looked at the difference between relational and non-relational databases.
+- We looked at using CRUD operations in PostgresSQL and had some time to play around with Creating, updating, reading and deleting data using db-fiddle.com
+- We had an interesting talk from Kyle Simpson who talked to us about Imposter Syndrome and the importance of accessibility.
+- In the morning I managed to complete a couple of the bonus tasks from our weekend tasks and Friday Hackathon challenge. 
+
 
