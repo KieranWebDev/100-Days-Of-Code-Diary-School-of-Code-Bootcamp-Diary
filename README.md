@@ -273,4 +273,9 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We had an interesting talk from Kyle Simpson who talked to us about Imposter Syndrome and the importance of accessibility.
 - In the morning I managed to complete a couple of the bonus tasks from our weekend tasks and Friday Hackathon challenge. 
 
+### Day 26 ###
 
+- We took a deep dive into SQL. We created tables and then were introduced to and practised using the WHERE clause as well as some new queries including; AND, OR, BETWEEN, NOT BETWEEN, IN, NOT IN, LIKE, NOT LIKE, %, and DISTINCT.
+- We also looked at the ORDER BY keyword and ASC/DESC.
+- In the afternoon we experimented with joining tables and looked at the various types of JOIN.
+- We then worked through some exercises on SQLbolt and pgexcercises.com
