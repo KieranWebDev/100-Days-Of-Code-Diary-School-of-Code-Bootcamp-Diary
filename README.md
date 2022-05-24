@@ -248,7 +248,7 @@ Our challenge this week was to build the backend of a recipe website.
 I would like to thank the fantastic coaches at School of Code for offering a guiding hand when we got stuck on a task. :) 
 
 ### Day 24 ###
-
+ 
 - I completed the School of Code weekend recap tasks, which reviewed and cemented the things we learned during the week. Ie. Making GET,POST,PUT and DELETE requests. Importing and exporting modules etc.
 - I also reviewed our code from the Hackathon challenge to review the concepts and ensure I understood how everything works.
 - Watched ‘Keep betting on JavaScript video’ in preparation for a guest talk from Kyle Simpson on Monday
