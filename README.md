@@ -280,7 +280,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - In the afternoon we experimented with joining tables and looked at the various types of JOIN.
 - We then worked through some exercises on SQLbolt and pgexcercises.com
 
-### DAY 27 ###
+### Day 27 ###
 
 - We were introduced to Heroku, environment variables, the express application generator and the pg package which allows us to connect to a Postgres database.
 - There was a LOT of information to take in and I’m still unsure how all the new concepts we learned yesterday fit together, but we’ll have more time to play around with it tomorrow and during the Hackathon, I’m sure.
