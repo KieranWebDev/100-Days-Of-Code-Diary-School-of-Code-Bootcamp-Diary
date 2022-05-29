@@ -289,3 +289,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 ### Day 28 ###
 
 - We spent most of the day breaking down the task from yesterday piece by piece and then sticking it all back together. This was extremely useful and helped to place a few of the jigsaw pieces together in my mental model. I’m still not all the way there, but I’m making progress and hopefully the Hackathon tomorrow will help clear things up further. Big thanks to the wonderful coaches at School Of Code for today!
+
+### Day 29(Hackathon Friday) and 30 ###
+
+- Our challenge this week was to create an API with Node.js, Express and PostgresSQL.
+- We made a simple animal information API, and hosted the data on Heroku. We managed to create various routes that managed the requests and server responses, and we used the models pattern to allow for easy interaction with our database.
+- We also used environment variables to store our credentials.
+- On Saturday I completed the weekend recap tasks which helped to solidify the concepts I learned during the week.
+
