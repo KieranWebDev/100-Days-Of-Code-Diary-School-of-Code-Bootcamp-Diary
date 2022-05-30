@@ -305,3 +305,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - I also had some lovely feedback from my enablement coach in regards to my progress in the Bootcamp and it was really heart-warming to hear that my former coding partners enjoyed working with me as much as I enjoyed working with them.  
 
+
+### Day 31 ###
+
+- Today we were introduced to Testing and Test Drive Development.  We looked at different types of testing, such as unit testing, integration UI and acceptance tests.
+- We then went on to write some of our own tests in Jest using the Arrange, Act and Assert method for testing.
+- It was actually very satisfying to see all those green ticks after testing a function we wrote/writing a test. Haha.
+
+
