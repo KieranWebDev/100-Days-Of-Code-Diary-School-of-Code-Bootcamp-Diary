@@ -297,3 +297,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We also used environment variables to store our credentials.
 - On Saturday I completed the weekend recap tasks which helped to solidify the concepts I learned during the week.
 
+### Thoughts after week 5 of School of Code ###
+
+- Regarding the number of new concepts and information being introduced to us, week 5 was the toughest week for me. However, I noticed that I didn’t really get overly anxious and feel overwhelmed the way I did in the first or second weeks when I was in this situation. I’m becoming more comfortable with being uncomfortable and gaining confidence in breaking problems down and attacking them step by step. 
+
+- Also, when I felt a bit overwhelmed with the new info, I remembered how I pretty much felt the same way at some point every week since the start of the Bootcamp and things always became clearer with time and practice. 
+
+- I also had some lovely feedback from my enablement coach in regards to my progress in the Bootcamp and it was really heart-warming to hear that my former coding partners enjoyed working with me as much as I enjoyed working with them.  
+
