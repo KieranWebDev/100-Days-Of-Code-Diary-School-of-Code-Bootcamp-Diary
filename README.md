@@ -312,8 +312,15 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We then went on to write some of our own tests in Jest using the Arrange, Act and Assert method for testing.
 - It was actually very satisfying to see all those green ticks after testing a function we wrote/writing a test. Haha.
 
-### DAY 32 ###
+### Day 32 ###
 
 - Today we took a deep- dive into TDD and the Red/Green/Refactor cycle. We also had more practice with Jest and played around with some new concepts.
 - In the afternoon we had a guest lecture from the team at cypress who gave us a demonstration of their testing software. It seemed very intuitive and well designed. Looking forward to playing around with it soon.
 - We also had time to solve a few katas on Codewars today and I feel like my coding skills have levelled up a bit. Those little baby steps I've been taking every day are starting to add up :)
+
+### Day 33 ###
+
+- Completed a couple of Codewars challenges in the morning to help get my brain back in gear again after the Jubilee holidays.
+- We were introduced to React today. We had a little play around and will be diving deeper into it during the next two weeks.
+- Completed a couple of unfinished tasks from some of the previous workshops.
+- Took it a bit easy on myself today, as I am feeling a bit unwell and need to rest.
