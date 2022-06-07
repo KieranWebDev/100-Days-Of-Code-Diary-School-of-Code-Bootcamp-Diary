@@ -324,3 +324,12 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We were introduced to React today. We had a little play around and will be diving deeper into it during the next two weeks.
 - Completed a couple of unfinished tasks from some of the previous workshops.
 - Took it a bit easy on myself today, as I am feeling a bit unwell and need to rest.
+
+### Day 34 ### 
+
+- More React today. We were introduced to JSX and Props, and then completed more practice tasks.
+- Happy to be working on the Front-end again!
+- We had a great guest talk from Nick Truby who shared some excellent insights into the life of a front-end developer
+- We used React Create app for the first time and played around with importing and exporting simple components.
+- I attended another great workshop led by Hamza Ibrahim which helped cement some of the testing concepts we learned last week.
+- In the morning I also began coding along with The Net Ninja React tutorials on Youtube.
