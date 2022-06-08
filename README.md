@@ -333,3 +333,9 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We used React Create app for the first time and played around with importing and exporting simple components.
 - I attended another great workshop led by Hamza Ibrahim which helped cement some of the testing concepts we learned last week.
 - In the morning I also began coding along with The Net Ninja React tutorials on Youtube.
+
+### Day 35 ### 
+
+- In the morning we delved further into State and lifting State. We also looked at the difference between ‘smart’ and ‘dumb’ components. We then completed a workshop where we created a simple name generator using React. 
+
+- I was feeling pretty confident with React until we reached the afternoon workshop and I got my ass kicked by props.  I’m still struggling to fully grasp the concept but will have another crack at it tomorrow. 
