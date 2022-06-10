@@ -339,3 +339,10 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - In the morning we delved further into State and lifting State. We also looked at the difference between ‘smart’ and ‘dumb’ components. We then completed a workshop where we created a simple name generator using React. 
 
 - I was feeling pretty confident with React until we reached the afternoon workshop and I got my ass kicked by props.  I’m still struggling to fully grasp the concept but will have another crack at it tomorrow. 
+
+### Day 36 ###
+
+- I spent a couple of hours before class coding along with NetNinjas React tutorials. After some sleep and more practice I feel that I have a deeper understanding of State, Hooks and Props in React. 
+- 
+- We were introduced to a number of JS operators that allow us to edit arrays and objects immutably, including the spread operator, slice, map, filter, some, sort and every. We practiced solving a few codewars style challenges using some of these operators.
+
