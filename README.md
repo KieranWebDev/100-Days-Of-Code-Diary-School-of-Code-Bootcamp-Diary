@@ -346,3 +346,15 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - 
 - We were introduced to a number of JS operators that allow us to edit arrays and objects immutably, including the spread operator, slice, map, filter, some, sort and every. We practiced solving a few codewars style challenges using some of these operators.
 
+### Day 37 ###
+
+- We practiced using all the concepts we learned during the week to make a simple to-do list app in React. Putting all the pieces together was much more challenging than I expected, but we managed to complete the task and I am pretty happy with the outcome given the limited amount of time we had. We managed to create a user input field that added text to a list upon clicking a button. We were also able to buttons that removed a particular item from the list. 
+
+- We also had time to add a button that would display a random motivational quote on the screen, which would hopefully help to motivate the user into doing some of their tasks.
+
+- Given more time we would have improved the CSS styling, as the page is very ugly at the moment. We also would have liked to add different types of lists based on priority levels. e.g. a high-priority to-do list and a low-priority to-do list. I feel that this would not be too difficult as it’s just a case of reusing and repurposing the existing component we created, but I might be wrong. 
+
+- I’m looking forward to improving the project soon.
+
+- We also had to present our project to our peers and I am starting to feel a bit more comfortable doing this. My presentation still wasn’t great, but it was better than last time. We have to celebrate the small wins, haha.
+
