@@ -346,7 +346,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - 
 - We were introduced to a number of JS operators that allow us to edit arrays and objects immutably, including the spread operator, slice, map, filter, some, sort and every. We practiced solving a few codewars style challenges using some of these operators.
 
-### Day 37 ###
+### Day 37 - Hackathon Friday ###
 
 - We practiced using all the concepts we learned during the week to make a simple to-do list app in React. Putting all the pieces together was much more challenging than I expected, but we managed to complete the task and I am pretty happy with the outcome given the limited amount of time we had. We managed to create a user input field that added text to a list upon clicking a button. We were also able to buttons that removed a particular item from the list. 
 
@@ -357,4 +357,12 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - I’m looking forward to improving the project soon.
 
 - We also had to present our project to our peers and I am starting to feel a bit more comfortable doing this. My presentation still wasn’t great, but it was better than last time. We have to celebrate the small wins, haha.
+
+### Day 38 and 39 ###
+
+- I spent a lot of time working on the Weekend Recap Tasks which helped to practice and cement the knowledge we learned during the week. 
+
+- I also managed to complete the bonus tasks activity which consisted of solving various code wars style challenges using a wide variety of JS methods. 
+
+- In preparation for next week I watched a number of Net Ninjas React tutorials; introducing myself to various new concepts including the useEffect hook, conditional rendering, error catching/handling and also custom hooks. I plan to watch the videos again tomorrow morning before class, code along with the tutorials, and then try and really break down the code to see what’s going on. But for now, time to enjoy the weekend! :)  
 
