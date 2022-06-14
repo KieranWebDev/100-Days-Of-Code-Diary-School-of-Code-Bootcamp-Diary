@@ -366,3 +366,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - In preparation for next week I watched a number of Net Ninjas React tutorials; introducing myself to various new concepts including the useEffect hook, conditional rendering, error catching/handling and also custom hooks. I plan to watch the videos again tomorrow morning before class, code along with the tutorials, and then try and really break down the code to see what’s going on. But for now, time to enjoy the weekend! :)  
 
+### Day 40 ###
+- Spent a few hours in the morning working through Scrimba’s React course, getting more practice with props, conditional rendering , destructuring props etc.
+-  
+- In the afternoon we learned about the importance of keeping components Pure in React. We were introduced to UseEffect and completed a workshop where we used it to fetch data from an API.
