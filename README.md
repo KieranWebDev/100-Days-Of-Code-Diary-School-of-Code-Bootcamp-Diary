@@ -370,3 +370,10 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - Spent a few hours in the morning working through Scrimba’s React course, getting more practice with props, conditional rendering , destructuring props etc.
 -  
 - In the afternoon we learned about the importance of keeping components Pure in React. We were introduced to UseEffect and completed a workshop where we used it to fetch data from an API.
+
+### Day 41 ###
+
+- Spent an hour before class working through a few more React classes on Scrimba.
+- We were introduced to the Finite State Model today and then spent a lot of time learning about the useReducer hook, then worked through a workshop and practised using it. I found it tricky to get my head around but will have another crack at it tomorrow.
+- Spent a couple of hours after class making a simple React App that fetched and displays information about Star Wars Characters from an API. Created functionality to display a random character and info about them by clicking a button. Will try and add more functionality to it tomorrow.
+
