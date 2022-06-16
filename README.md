@@ -386,3 +386,13 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - After class, I managed to get the search functionality working on my Pokemon/Star Wars app and added some basic styling. It still looks horrendous but the functionality is there, so I’m happy with the results so far. Will try to add some decent CSS over the weekend.
 
 - The mini-project helped me gain more confidence with props, state, useEffect and component layout in general.
+
+### Day 43 ###
+
+-Another great Mindset class with a focus on Team Dynamics this week. 
+
+-We had a quick but very useful workshop on Git branching.
+
+- A great quest talk form the team at Trello, about RESTful API’s.
+
+- In the afternoon we had two hours to prepare and record a 4 minute presentation in groups of 4.  We recorded a presentation on Agile Project Management tools such as Trello and Jira. It went well and feeling a bit more confident with presenting the more practice I get. 
