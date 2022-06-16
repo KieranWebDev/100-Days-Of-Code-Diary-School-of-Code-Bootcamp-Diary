@@ -377,3 +377,12 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We were introduced to the Finite State Model today and then spent a lot of time learning about the useReducer hook, then worked through a workshop and practised using it. I found it tricky to get my head around but will have another crack at it tomorrow.
 - Spent a couple of hours after class making a simple React App that fetched and displays information about Star Wars Characters from an API. Created functionality to display a random character and info about them by clicking a button. Will try and add more functionality to it tomorrow.
 
+### Day 42 ###
+
+- Worked through a few more Scrimba React classes before class.
+
+- We took a deep dive into React testing today using the Arrange, Act and Assert method.
+
+- After class, I managed to get the search functionality working on my Pokemon/Star Wars app and added some basic styling. It still looks horrendous but the functionality is there, so I’m happy with the results so far. Will try to add some decent CSS over the weekend.
+
+- The mini-project helped me gain more confidence with props, state, useEffect and component layout in general.
