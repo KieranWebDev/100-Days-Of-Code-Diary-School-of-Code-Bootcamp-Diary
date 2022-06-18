@@ -396,3 +396,15 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - A great quest talk form the team at Trello, about RESTful API’s.
 
 - In the afternoon we had two hours to prepare and record a 4 minute presentation in groups of 4.  We recorded a presentation on Agile Project Management tools such as Trello and Jira. It went well and feeling a bit more confident with presenting the more practice I get. 
+
+### Day 44 – Hackathon Friday ###
+
+- We were given 5 hours to make an MVP of an app using React.
+
+- We spent some time researching and testing API’s; focusing on finding one that seemed reliable and offered easy-to-access, useful data. We chose a music API which offered info on bands and artists.
+
+- We then used Disney ideation and worked through the Dreamer, Realist and Critic stages in order to come up with an idea of what we wanted to build. We decided upon some basic goals and stretch goals. We then made a low-fidelity wire-frame and component tree of our site on Miro. We made a plan; breaking the app down into tasks/tickets for each feature. 
+
+- We spent the rest of the day implementing our plan and coding. We then gave a two-minute presentation to our coaches and peers at the end of the day. I am very happy with the results, especially given the short amount of time we had. We were able to implement a search feature which returned info on a band/artist, including; a picture, logo, genre info, biography of the band and a link that directs the user to the Last.fm page for the band/artist.  
+
+- We also had time to implement two of our stretch goals which were to add a ‘Discover a new band button’, which displays info on a random band and to add CSS styling.
