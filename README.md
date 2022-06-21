@@ -408,3 +408,10 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We spent the rest of the day implementing our plan and coding. We then gave a two-minute presentation to our coaches and peers at the end of the day. I am very happy with the results, especially given the short amount of time we had. We were able to implement a search feature which returned info on a band/artist, including; a picture, logo, genre info, biography of the band and a link that directs the user to the Last.fm page for the band/artist.  
 
 - We also had time to implement two of our stretch goals which were to add a ‘Discover a new band button’, which displays info on a random band and to add CSS styling.
+
+### Day 45 ###
+
+- Today we started project week. We were given a project brief and put into our new groups of four and to work. 
+
+- We created a manifesto, brainstormed ideas, created a survey, made some user stories, worked through the Disney Ideation process, defined our final idea, created a flowchart breaking down our app into its component parts and then made a low-fidelity wireframe. 
+
