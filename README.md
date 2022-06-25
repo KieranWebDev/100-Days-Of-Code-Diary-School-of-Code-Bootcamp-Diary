@@ -415,3 +415,23 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - We created a manifesto, brainstormed ideas, created a survey, made some user stories, worked through the Disney Ideation process, defined our final idea, created a flowchart breaking down our app into its component parts and then made a low-fidelity wireframe. 
 
+### Day 46-49 The rest of Project Week ###
+
+-What a wild ride!
+
+-The team and I worked like dogs in order to make our MVP. It was such a wonderful experience with a team of great people. Lots of shared laughs, frustrations and triumphs were had as we worked towards our goals. My biggest fear at the start of the week was that I wouldn’t gel with the random teammates we were assigned to, but we all got along like a house on fire and quickly became fast friends.
+
+- We created a full-stack web application that allows bootcampers to post workshops/lessons they wish to host on any topic of their choosing. We wanted to reward boot campers for their hard work and give them recognition for the help they give to others. Thus, bootcampers receive badges based on the number of sessions they have given, feedback from fellow bootcampers etc.
+
+- We managed to achieve all our MVP goals. The user can post info on their study session to our database, and the user can also view all the current study sessions saved on the db. We were able to deploy our databse to Heroku, add some routes to the navbar and apply some CSS styling.  If given another week we would have been able to fully implement our badge system, and create the admin dashboard; where the admin can delete entries, see the attendee list etc. The team and I plan to continue working on this as a side project, which I am excited about.
+
+- We encountered some roadblocks that cost us a lot of time, and I still feel a bit frustrated that we could have done more, but hindsight is 20/20 and these mistakes are part of the learning journey.
+
+- It was great to be able to consolidate all the learning we have done in the last 8 weeks and put all the jigsaw pieces together. It was very beneficial to practice using the Agile methodology, with daily standups, retrospectives, tickets etc. I think this week has really helped set us up for the final 4 week project.
+
+- It was also very useful to have some presentation practice, as nerve-wracking as it is.
+
+- Again big thanks to my fellow teammates Fabian Deckmann, Jaden Joel, Cambridge CELTA and Sam Safari! Love you all.
+
+“Sometimes you’re ahead, sometimes you’re behind, the race is long and in the end it’s only with yourself.”  - Mary Schmich.
+
