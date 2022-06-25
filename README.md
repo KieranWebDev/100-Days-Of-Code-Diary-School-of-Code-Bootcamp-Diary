@@ -417,9 +417,9 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 ### Day 46-49 The rest of Project Week ###
 
--What a wild ride!
+- What a wild ride!
 
--The team and I worked like dogs in order to make our MVP. It was such a wonderful experience with a team of great people. Lots of shared laughs, frustrations and triumphs were had as we worked towards our goals. My biggest fear at the start of the week was that I wouldn’t gel with the random teammates we were assigned to, but we all got along like a house on fire and quickly became fast friends.
+- The team and I worked like dogs in order to make our MVP. It was such a wonderful experience with a team of great people. Lots of shared laughs, frustrations and triumphs were had as we worked towards our goals. My biggest fear at the start of the week was that I wouldn’t gel with the random teammates we were assigned to, but we all got along like a house on fire and quickly became fast friends.
 
 - We created a full-stack web application that allows bootcampers to post workshops/lessons they wish to host on any topic of their choosing. We wanted to reward boot campers for their hard work and give them recognition for the help they give to others. Thus, bootcampers receive badges based on the number of sessions they have given, feedback from fellow bootcampers etc.
 
