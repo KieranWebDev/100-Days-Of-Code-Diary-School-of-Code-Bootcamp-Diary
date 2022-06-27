@@ -435,3 +435,10 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 “Sometimes you’re ahead, sometimes you’re behind, the race is long and in the end it’s only with yourself.”  - Mary Schmich.
 
+### Day 50: ###
+
+- I spent a couple of hours before class working through a few of NetNinjas’s React classes and also thinking about how I could incorporate some of the concepts covered into last week’s project.
+
+- We remained in our groups from last week’s project and spent the first part of the day doing a Retrospective together. We reflected on what went well, what didn’t go well and why. We then made an action plan on how we could improve these issues next time. 
+
+- In the afternoon we were introduced to Code Reviews and gave feedback on a peer's project. We focused on giving feedback in a positive way, asking good questions and for clarification where necessary. I found it very interesting to see how another group tackled similar problems and I also enjoyed just reading, understanding and making a mental visual model of another group's app.
