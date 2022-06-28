@@ -442,3 +442,12 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We remained in our groups from last week’s project and spent the first part of the day doing a Retrospective together. We reflected on what went well, what didn’t go well and why. We then made an action plan on how we could improve these issues next time. 
 
 - In the afternoon we were introduced to Code Reviews and gave feedback on a peer's project. We focused on giving feedback in a positive way, asking good questions and for clarification where necessary. I found it very interesting to see how another group tackled similar problems and I also enjoyed just reading, understanding and making a mental visual model of another group's app.
+
+### Day 51 ###
+
+- We started off with a workshop on writing effective documentation. We learned about the importance of writing concise, user-friendly, clear documentation that respects the user’s time. 
+
+- We then set about writing documentation for our week 9 projects. It was an interesting experience to be in the shoes of the person writing documentation rather than consuming it. We tried our best to put ourselves in our user’s shoes, focusing on offering clear and user-friendly docs. 
+
+- I also spent another hour or so working through a few more of NetNinja’s React classes.
+
