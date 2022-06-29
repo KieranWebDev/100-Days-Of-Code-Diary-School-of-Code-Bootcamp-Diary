@@ -443,7 +443,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - In the afternoon we were introduced to Code Reviews and gave feedback on a peer's project. We focused on giving feedback in a positive way, asking good questions and for clarification where necessary. I found it very interesting to see how another group tackled similar problems and I also enjoyed just reading, understanding and making a mental visual model of another group's app.
 
-### Day 51 ###
+### Day 51: ###
 
 - We started off with a workshop on writing effective documentation. We learned about the importance of writing concise, user-friendly, clear documentation that respects the user’s time. 
 
