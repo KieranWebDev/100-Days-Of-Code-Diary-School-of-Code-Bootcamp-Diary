@@ -451,7 +451,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - I also spent another hour or so working through a few more of NetNinja’s React classes.
 
-Day 52:
+### Day 52: ###
 
 - We Finished writing documentation for our project.
 
