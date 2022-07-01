@@ -461,3 +461,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 -Worked through some more of NetNinja’s React course on Udemy.
 
+### Day 53: ###
+
+- Before class, I improved the functionality of our form from last week’s project. I also added some error handling and a loading message for the site's initial fetch request.
+
+- We were introduced to Auth0 and discussed the difference between Authentication and Authorisation. We then began a workshop where we practised implementing Auth0 into the front-end and back-end of an empty project.
+
+- Had a little play around with some CSS animations in the evening.
+
