@@ -469,3 +469,8 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Had a little play around with some CSS animations in the evening.
 
+### Day 54 and 55 ###
+
+- We spent most of Friday continuing the workshop on Auth0. Implementing it on the front-end was relatively pain-free but the back-end implementation was very difficult and I will need to look at this further.  
+
+- In preparation for the final 4-week project I began learning NextJs, as I saw that many teams from previous SoC bootcamps used it in their final project. I completed Net Ninjas Next js course and managed to deploy the app with Vercel. It was surprisingly easy to deploy! Although I’m just scratching the surface at the moment, I can see why Nextjs is so popular.  Looking forward to diving deeper into it next week. 
