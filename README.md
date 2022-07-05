@@ -481,7 +481,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Spent a couple of hours working on a React project.
 
-#### Day 57: ###
+### Day 57: ###
 
 - I learned about and practised using React Fragments, modal components, children, portals and functions as props. I also learned about styling React Apps using global stylesheets, component stylesheets, CSS modules, and dynamic and conditional inline styles.
 
