@@ -480,3 +480,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We were introduced to Netlify and deployed a Single Page Application. We also looked into more features offered by Netlify such as Netlify forms, continuous deployment, plugins, edge function etc.
 
 - Spent a couple of hours working on a React project.
+
+#### Day 57: ###
+
+- I learned about and practised using React Fragments, modal components, children, portals and functions as props. I also learned about styling React Apps using global stylesheets, component stylesheets, CSS modules, and dynamic and conditional inline styles.
+
+- We delved deeper into deployment and managed to deploy and link a simple front-end and back-end app with Heroku and Netlify.
+
+- Also learned a bit about Headless CMS and watched a tutorial on Strapi. Strapi looks like it could make back-end life a whole lot easier!
