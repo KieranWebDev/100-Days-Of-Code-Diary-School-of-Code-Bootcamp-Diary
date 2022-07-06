@@ -488,3 +488,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - We delved deeper into deployment and managed to deploy and link a simple front-end and back-end app with Heroku and Netlify.
 
 - Also learned a bit about Headless CMS and watched a tutorial on Strapi. Strapi looks like it could make back-end life a whole lot easier!
+
+### Day 58 ###
+
+- Before class, I began a NetNinja course on Nextjs and Contentful. So far Contentful seems to be an extremely useful tool that can really help to simplify back-end development. Looking forward to learning more!
+
+ - in the morning we were introduced to the Context hook and wrote an article with the aim of explaining state, props and Context to our peers.
+
+- In the afternoon we were introduced to React Hooks and completed a workshop where we practised using them. I can see how they can very useful in abstracting away code and making reusable functions.
