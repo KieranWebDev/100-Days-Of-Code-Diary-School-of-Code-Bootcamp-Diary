@@ -489,7 +489,7 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Also learned a bit about Headless CMS and watched a tutorial on Strapi. Strapi looks like it could make back-end life a whole lot easier!
 
-### Day 58 ###
+### Day 58: ###
 
 - Before class, I began a NetNinja course on Nextjs and Contentful. So far Contentful seems to be an extremely useful tool that can really help to simplify back-end development. Looking forward to learning more!
 
