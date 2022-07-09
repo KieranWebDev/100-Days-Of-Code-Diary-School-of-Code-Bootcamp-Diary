@@ -496,3 +496,15 @@ This week I was also blown away by the kindness I found in the Tech Community. I
  - in the morning we were introduced to the Context hook and wrote an article with the aim of explaining state, props and Context to our peers.
 
 - In the afternoon we were introduced to React Hooks and completed a workshop where we practised using them. I can see how they can very useful in abstracting away code and making reusable functions.
+
+### Day 59 and 60:
+
+- We had a workshop about the interview process and began working on our 10-second Intro/Elevator pitches. 
+
+- On Friday we were introduced to AWS and Amplify. AWS is incredibly deep and offers a crazy amount of features. I can understand now why there are so many types of AWS certificates available. We then went on to create a very simple full-stack app using Amplify.
+
+- I practised a bit more with React and brainstormed ideas for my portfolio content. 
+
+- Watched a few tutorials on Firebase and played around with it a bit. Seems like a great back-end tool that I can implement in some personal projects going forward. I also quickly reviewed Node js basics and CRUD operations.
+
+
