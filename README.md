@@ -507,4 +507,13 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Watched a few tutorials on Firebase and played around with it a bit. Seems like a great back-end tool that I can implement in some personal projects going forward. I also quickly reviewed Node js basics and CRUD operations.
 
+### Day 61:
+
+- Reviewed some React fundamentals such as fetching data using the UseEffect hook, making a custom fetch hook, adding loading/pending states, error handling, user inputs and events, submitting forms etc.
+
+- Also looked and practiced some new concepts such as the useRef hook, useCallback and cleanup functions. 
+
+- Had a play and mess around with TailwindCSS. Seems very useful and time-saving so far and has easy to read documentation. The trade-off seems to be that it can lead to messy code. 
+
+- Started working on my portfolio site. Got the responsive Navbar sorted :)
 
