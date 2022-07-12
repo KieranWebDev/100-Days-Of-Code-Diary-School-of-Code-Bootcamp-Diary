@@ -517,3 +517,12 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Started working on my portfolio site. Got the responsive Navbar sorted :)
 
+### Day 62:
+- We had an excellent guest talk from guest speaker and former boot camper Valerio Cipolla. He gave us some great advice for our upcoming project and life post Bootcamp.
+
+- We were introduced to UI libraries. Each group was assigned a different library to play around with. We then joined with other groups to discuss and compare our experiences.
+
+- After class I fell into the youtube rabbit hole, looking at different UI libraries. I got a bit overwhelmed with all the different UI library options as they all seem to come with their own set of pros and cons.
+
+- Before class, I did a bit of work on creating a matching pairs game with React. I also began writing the Readme to accompany it
+
