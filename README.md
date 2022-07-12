@@ -526,3 +526,9 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Before class, I did a bit of work on creating a matching pairs game with React. I also began writing the Readme to accompany it
 
+### Day 63:
+- Another great guest speaker today. Daniel Newns gave us an excellent insight into life in tech and what he looks for when hiring junior developers.
+
+- We had some time to work on our portfolio websites in the afternoon. I dug up the wireframes we made back in week 3 and tried to iterate and improve upon it. I also started to code the site with mobile first responsive design in mind. 
+
+
