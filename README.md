@@ -531,4 +531,12 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - We had some time to work on our portfolio websites in the afternoon. I dug up the wireframes we made back in week 3 and tried to iterate and improve upon it. I also started to code the site with mobile first responsive design in mind. 
 
+### Day 64 and 65:
+- We looked at Precedence and implicit coercion in JS. We then explored JS and all its interesting/infuriating quirks.  
+
+- We were introduced to TypeScript. We researched, and then discussed the purpose of TypeScript and the pros and cons it brings to the table. Following this, we worked through a couple of projects where we learned the basics of TypeScript, and implemented it into a Rock, Scissors Paper app and a React To-Do app.
+
+- Had a great workshop going over interview tips and advice. We then conducted some mock tech interview coding challenges with our partners, where I discovered that I make a better interviewer than interviewee. 😅
+
+- Another great guest talk from the team at Talis, where they went over their agile method of working, which was very helpful in preparation for the final four week project!
 
