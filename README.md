@@ -540,3 +540,8 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - Another great guest talk from the team at Talis, where they went over their agile method of working, which was very helpful in preparation for the final four week project!
 
+### Day 66:
+
+- For the last hackathon we were asked to create a simple weather app using TypeScript that retrieved weather info from an API, and we were encouraged to play around with some new tools. We took advantage of this opportunity as we felt that some of these tools could be very useful during our four-week projects.  So after we completed a barebones MVP we played around with React Router and Material UI. Although we weren’t able to incorporate them into our project as we would have liked, we learned a lot and became more comfortable with TypeScript along the way.
+
+- After class, I played around some more with React Router and gained a deeper understanding of how it works. I also explored the docs and sandbox features of Framer Motion and React Hook Form.
