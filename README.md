@@ -545,3 +545,11 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - For the last hackathon we were asked to create a simple weather app using TypeScript that retrieved weather info from an API, and we were encouraged to play around with some new tools. We took advantage of this opportunity as we felt that some of these tools could be very useful during our four-week projects.  So after we completed a barebones MVP we played around with React Router and Material UI. Although we weren’t able to incorporate them into our project as we would have liked, we learned a lot and became more comfortable with TypeScript along the way.
 
 - After class, I played around some more with React Router and gained a deeper understanding of how it works. I also explored the docs and sandbox features of Framer Motion and React Hook Form.
+
+### Day 67 and 68:
+
+- In preparation for Project month (deep breath) I took a deep dive into React over the weekend. I worked through Net Ninjas Udemy React Course. I practised and became more comfortable with ReactRouter6; creating links, routes, redirecting users, using the useParams hook and also created a functional search bar. I created a useFetch hook for GET requests and then adapted it so it can also handle POST requests. I also got a lot of practice using the map method to iterate over data.
+
+- I deployed a few projects with Vercel, most of which are not finished/presentable yet, but I just wanted to get a bit of practice in.
+
+- I also played around with CSS Grid a bit.
