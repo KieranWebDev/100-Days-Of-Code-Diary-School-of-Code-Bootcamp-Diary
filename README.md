@@ -553,3 +553,13 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - I deployed a few projects with Vercel, most of which are not finished/presentable yet, but I just wanted to get a bit of practice in.
 
 - I also played around with CSS Grid a bit.
+
+### Day 69 and 70:
+
+-Project month was delayed until Wednesday due to the heatwave. I used this time to work on some portfolio projects. I added dark-mode functionality to my cooking site using useContext and useReducer, which helped me to gain a deeper understanding of the basics of how these hooks worked; as I had struggled with them previously.
+
+-I deployed the front end to Vercel then used Firebase to create a backend instead of using JSON server. This was my first time using Firebase in a project and I learned a lot. I have GET and POST routes sorted and plan on adding DELETE and PATCH functionality soon.
+
+- I also spent some time working through NetNinja’s CSS Grid course and created some very clean and simple responsive layouts using Grid.
+
+- After this, we had a power cut and I spent the rest of the day reading/napping/melting in the heat.
