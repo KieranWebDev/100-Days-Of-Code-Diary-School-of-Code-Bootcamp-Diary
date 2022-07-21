@@ -563,3 +563,5 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 - I also spent some time working through NetNinja’s CSS Grid course and created some very clean and simple responsive layouts using Grid.
 
 - After this, we had a power cut and I spent the rest of the day reading/napping/melting in the heat.
+
+### Day 71
