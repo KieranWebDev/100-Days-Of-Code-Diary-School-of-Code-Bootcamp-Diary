@@ -564,4 +564,15 @@ This week I was also blown away by the kindness I found in the Tech Community. I
 
 - After this, we had a power cut and I spent the rest of the day reading/napping/melting in the heat.
 
-### Day 71
+### Days 71 to 73:
+
+We began project Month! 
+
+- On Wednesday we were put into our teams, where we got to know each other and then created a project manifesto. We were then presented with the brief and set about brainstorming ideas, and ideating. We selected some of our favourite ideas, split into pairs and developed them further, then gave feedback to each other. We then used dot voting to decide on the final project concept. Finally, we used the MoSCoW method to discuss and decide upon our MVP features. 
+
+- On Thursday we created some user personas and sent out a research questionnaire. We were able to get over 70 responses! (Big thanks to anyone who completed our questionnaire!) We analyzed the feedback we received from the questionnaire to adjust our planned MVP features accordingly. We then created our low-fidelity wire-frames using miro.
+
+- On Friday, we split into two teams where we each made a high-fidelity mock-up of our main page using Figma. We got together, discussed our ideas and merged the best parts of each wireframe together into one super wireframe! 🦾 Once we had a design theme sorted we split off again into two teams. One team created the rest of the High Fidelity wireframes for the MVP and the other worked on the component tree for our App.  Finally, we gave a 4-minute presentation to our peers at the end of the day.
+
+
+- We still have some more planning to do but we're really happy with the progress we’ve made and am genuinely excited to start making this app with the team!
