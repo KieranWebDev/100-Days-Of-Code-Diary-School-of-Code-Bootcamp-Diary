@@ -574,5 +574,8 @@ We began project Month!
 
 - On Friday, we split into two teams where we each made a high-fidelity mock-up of our main page using Figma. We got together, discussed our ideas and merged the best parts of each wireframe together into one super wireframe! 🦾 Once we had a design theme sorted we split off again into two teams. One team created the rest of the High Fidelity wireframes for the MVP and the other worked on the component tree for our App.  Finally, we gave a 4-minute presentation to our peers at the end of the day.
 
-
 - We still have some more planning to do but we're really happy with the progress we’ve made and am genuinely excited to start making this app with the team!
+
+### Days 74 and 75:
+
+- I spent some time working on my Portfolio website MVP using Nextjs. I wrestled with and learned a lot about CSS Grid. It was also fun to play around with CSS again, but I forgot how easy it is to get lost in the tiny details. For my next portfolio session, I will have to use an egg-timer to help with styling decisions. lol.  The page still needs some work but it’s coming together nicely
