@@ -579,3 +579,11 @@ We began project Month!
 ### Days 74 and 75:
 
 - I spent some time working on my Portfolio website MVP using Nextjs. I wrestled with and learned a lot about CSS Grid. It was also fun to play around with CSS again, but I forgot how easy it is to get lost in the tiny details. For my next portfolio session, I will have to use an egg-timer to help with styling decisions. lol.  The page still needs some work but it’s coming together nicely
+
+### Day 76:
+
+- Today we finished and finalized our high-fidelity wireframes as well as our component tree. We decided upon and explicitly defined our database structure and naming conventions.  We also finalized our MVP features and made sure we are all on the same page before we start coding tomorrow.
+- We discussed and decided upon a tech stack to use, with final voting on a couple of items to be held in the morning standup tomorrow; which gives us time to do research and sleep on things before making a final decision.
+- We also discussed our Git flow strategy, as we felt it was very important to all be on the same page with this in order to avoid any git merging nightmares.
+- Finally, we read through the Project Guidelines document one more time to make sure that we had covered all of the key steps.
+- Some nervous excitement right now as we hopefully start to build and code our project tomorrow!
