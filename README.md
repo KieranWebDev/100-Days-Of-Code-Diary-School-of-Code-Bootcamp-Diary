@@ -587,3 +587,5 @@ We began project Month!
 - We also discussed our Git flow strategy, as we felt it was very important to all be on the same page with this in order to avoid any git merging nightmares.
 - Finally, we read through the Project Guidelines document one more time to make sure that we had covered all of the key steps.
 - Some nervous excitement right now as we hopefully start to build and code our project tomorrow!
+
+### Day 77:
