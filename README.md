@@ -588,4 +588,12 @@ We began project Month!
 - Finally, we read through the Project Guidelines document one more time to make sure that we had covered all of the key steps.
 - Some nervous excitement right now as we hopefully start to build and code our project tomorrow!
 
-### Day 77:
+### Day 77 and 78:
+
+- On Tuesday morning we voted and decided upon our tech stack. We then decided to take 90mins to go and read documentation or watch tutorials on Nextjs in order to re-familiarize ourselves with it before we begin to code. 
+
+- After Lunch, we began to code! We began work on the form component using React Hook Form, map integration with Mapbox, navbars, footers, component cards, filter bars etc. 
+
+- During Thursday's standup we clarified the tasks for the day, tweaked a few things and got back to work.  We created a simple back-end for our website and deployed it with Heroku. We also merged some of the front-end branches and deployed the development branch with Netlify. We decided to merge the branches as a group as a few of us (myself included) were unsure as to how to merge branches efficiently in a way that mitigates the risk of high blood pressure. 
+
+- Although there is still a lot of work to do, it was great to see all the little jigsaw pieces starting to come together after we deployed.
