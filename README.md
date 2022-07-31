@@ -597,3 +597,15 @@ We began project Month!
 - During Thursday's standup we clarified the tasks for the day, tweaked a few things and got back to work.  We created a simple back-end for our website and deployed it with Heroku. We also merged some of the front-end branches and deployed the development branch with Netlify. We decided to merge the branches as a group as a few of us (myself included) were unsure as to how to merge branches efficiently in a way that mitigates the risk of high blood pressure. 
 
 - Although there is still a lot of work to do, it was great to see all the little jigsaw pieces starting to come together after we deployed.
+
+ ### Day 79 to 81:
+
+- Some struggles, some frustrations, and a huge dose of imposter syndrome, followed by some small wins and a couple of nice dopamine hits. 
+
+-We progressed beautifully as a team and made great steps towards achieving our MVP.  We managed to integrate Mapbox and Cloudinary image uploads into our Nextjs app, as well as a form using React Hook Form. Our form submits data to the database and we are able to fetch and display that data on the home page. We also have the routing and fetching set up for each of our location cards, although some fixes still need to be made. 
+
+- Personally, on Friday I fell into the black hole of comparing myself to others, which never leads anywhere good. I had to remind myself to compare myself to my past self and remember how far I’ve travelled in the last 3 months.  I tried to remember that during this project we are being exposed to a lot of new technologies and it’s foolish to expect myself to be able to pick them up and run with them straight away.
+
+- On Saturday I attempted to hook up the form on my Nextjs Portfolio page with Netlify Forms but had no luck. I will try another approach (maybe with Formspree) today or tomorrow. 
+
+"Sometimes you’re ahead sometimes you’re behind, the race is long and in the end, it’s only with yourself"  - Mary Schmich
