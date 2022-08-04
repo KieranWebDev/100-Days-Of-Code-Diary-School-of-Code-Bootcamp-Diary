@@ -609,3 +609,11 @@ We began project Month!
 - On Saturday I attempted to hook up the form on my Nextjs Portfolio page with Netlify Forms but had no luck. I will try another approach (maybe with Formspree) today or tomorrow. 
 
 "Sometimes you’re ahead sometimes you’re behind, the race is long and in the end, it’s only with yourself"  - Mary Schmich
+
+ ### Day 82-84:
+
+- We’ve been working hard on our project and are just touching the finish line in terms of our MVP goals. We implemented Auth0 to the app, refined and fixed some bugs in our search bar, improved the styling of all our pages, and added functionality for the user to report any errors they find in the location pages. We spent a day where we ironed out all the small creases and made sure everything looks and feels as slick as possible. We also spent a lot of time merging all these changes. I’m feeling a lot more comfortable with the process of git branching and merging as the project continues 
+
+- We reached the point where we started to talk more about possible stretch goals and will have a vote later in the week to determine which stretch goal/s we will work towards next week.
+
+- I have also been working on my portfolio outside of class and everything is starting to come together now. If I keep up the grind then it should be ready to go by graduation day. 
