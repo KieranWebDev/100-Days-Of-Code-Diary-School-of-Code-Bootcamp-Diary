@@ -617,3 +617,11 @@ We began project Month!
 - We reached the point where we started to talk more about possible stretch goals and will have a vote later in the week to determine which stretch goal/s we will work towards next week.
 
 - I have also been working on my portfolio outside of class and everything is starting to come together now. If I keep up the grind then it should be ready to go by graduation day. 
+
+ ### Day 85-87:
+
+- Some more general spring cleaning of our MVP.  We tidied up the Location pages and created the About us page. We implemented some testing on the back-end using Jest, and added some more locations to the database. We also send out our MVP with a survey to our fellow boot-campers. We got a lot of constructive feedback which we will discuss and act upon on Monday.
+
+- We added the map functionality to our form page, so the user can now just drag and drop a pin to set the location instead of having to type in the longitude and latitude manually. Still, a couple of bugs to iron out with this feature, but a big improvement on our previous implementation. 
+
+- In terms of side-projects I added media queries to my portfolio page to make it responsive for mobile and tablet. I just have to replace all the Lorem Ipsums with actual text and it should be ready! I also did some work on my Github profile Readme to make it more presentable.
