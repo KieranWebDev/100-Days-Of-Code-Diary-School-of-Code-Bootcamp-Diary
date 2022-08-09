@@ -625,3 +625,10 @@ We began project Month!
 - We added the map functionality to our form page, so the user can now just drag and drop a pin to set the location instead of having to type in the longitude and latitude manually. Still, a couple of bugs to iron out with this feature, but a big improvement on our previous implementation. 
 
 - In terms of side-projects I added media queries to my portfolio page to make it responsive for mobile and tablet. I just have to replace all the Lorem Ipsums with actual text and it should be ready! I also did some work on my Github profile Readme to make it more presentable.
+
+### Day 88-90:
+
+- We reviewed the feedback from our surveys and spent some time fixing some bugs and UI issues that were addressed by our users.  By the end of Monday we felt our MVP was pretty bullet-proof (fingers-crossed it staysthat way).  We created a Figma design for the mobile version of our website and then set about building it. We also added some delete and edit functionality for logged in users to edit any locations they have added to the website. 
+
+- I added some draft text to replace the Lorem ipsums in my Portfolio site and also started to think about how to tackle making a new CV, as my current one looks like it belongs in a time capsule.
+
