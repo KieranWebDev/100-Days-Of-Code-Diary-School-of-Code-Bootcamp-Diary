@@ -632,4 +632,10 @@ We began project Month!
 
 - I added some draft text to replace the Lorem ipsums in my Portfolio site and also started to think about how to tackle making a new CV, as my current one looks like it belongs in a time capsule.
 
-### Day 91-93:
+
+### Day 91-94:
+
+- We worked on and finished the MVP mobile version of our website. We also implemented some end-to-end testing using cypress, fixed a couple more bugs and began work on our documentation, the bulk of which is finished now. We then set about working on our final presentation video. We planned out the general structure we would use and created some slides etc. Hopefully, we can start recording on Monday. 
+
+
+- I also did some more work on my CV and a couple of Readmes for some side-projects. 
