@@ -639,4 +639,12 @@ We began project Month!
 
 - I also did some more work on my CV and a couple of Readmes for some side-projects. 
 
-### Day 95: 
+### Day 95-97:
+
+- We recorded our final presentation videos and also completed the documentation. for our final projects. 
+
+- Yesterday was the last official day of School of Code! But I still have some loose ends to tie up in terms of portfolio projects and also the graduation event to prepare for, so not dancing jigs and cracking open the whiskey just yet. But almost there!! Woop woop!  Jigs will be danced next Wednesday. Haha
+
+- Thank you to all the coaches and staff for your hard work and dedication over the last 4 months. I got some sand in my eye during those beautiful speeches yesterday. haha 
+
+- Also, did some more work on cleaning up my portfolio site and projects. I think my main task now is to write some Readme’s for the past projects I want to showcase, so I will be cracking on with that over the next couple of days. 
