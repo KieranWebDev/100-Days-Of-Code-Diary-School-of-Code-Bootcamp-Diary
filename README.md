@@ -648,3 +648,13 @@ We began project Month!
 - Thank you to all the coaches and staff for your hard work and dedication over the last 4 months. I got some sand in my eye during those beautiful speeches yesterday. haha 
 
 - Also, did some more work on cleaning up my portfolio site and projects. I think my main task now is to write some Readme’s for the past projects I want to showcase, so I will be cracking on with that over the next couple of days. 
+
+### Day 100:
+
+- Day 100 reached! :) I read through some of my previous entries and saw how far I have come since day one. Still loving it, still ready to get stuck in and learn more!
+
+- I would like to express my gratitude to School Of Code for this life-changing opportunity. I have learned so much over the last 16 weeks and met so many amazing people. Lots of peaks, troughs, laughter, stress and support all the way. I already miss the morning squats. 😢
+
+- Big virtual hugs and thanks to all the School of code Staff who make this happen. Thank you for your hard work and dedication to us every day! Kazeem A, Helena Archer, Charlotte Forte, Hamza Ibrahim, Liz Kaufman, 🚀 Jordan Linton 🚀, Chris Meah, Christopher Miller, Anna-Marie Moss, Arshi Sheikh,
+
+-Finished Day 100 by putting some finishing touches on my portfolio site, which I felt was a nice way to end the Challenge.
