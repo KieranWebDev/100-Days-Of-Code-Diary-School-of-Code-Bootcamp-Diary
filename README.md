@@ -659,9 +659,8 @@ We began project Month!
 
 -Finished Day 100 by putting some finishing touches on my portfolio site, which I felt was a nice way to end the Challenge.
 
-#Round 2
+# Round 2
 
-
-Day 5-9 
+### Day 5-9 
 
 Spent the week deep diving into JavaScript. Working through some simple projects, coding challenges and courses on freeCodeCamp, Udemy and Front End Mentors. Built a few simple projects in Vanilla Javascript, including a to-do list that stores and retrieves data using localStorage, and a progress bar indicator. Learned a lot about Objects, methods and DOM manipulation. I Also messed around with CSS and learned some stuff about transitions and animations.  I’m starting to gain a deeper understanding of how JS works, which I hope will pay dividends down the road.
