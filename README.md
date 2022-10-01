@@ -659,7 +659,10 @@ We began project Month!
 
 -Finished Day 100 by putting some finishing touches on my portfolio site, which I felt was a nice way to end the Challenge.
 
-# Round 2
+
+# 100 days of code - round 2
+
+Round 2, Day 1. Since graduating from School of Code I took a bit of time off to attend to some personal matters and also spend time with loved ones. Ready to get back on the horse now. I decided to start a new round of 100 days of code in order to help keep myself accountable and motivated. I spent the last few days working through Front End Masters ‘Complete Intro to Web Dev’ course in order to refresh and cement some core principles and fill in some gaps in my knowledge base. 
 
 ### Day 5-9 
 
